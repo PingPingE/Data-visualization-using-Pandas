@@ -12,3 +12,6 @@
   <li>Python</li>
 
 </ul>
+
+</br></br>
+<img width = "600" alt = "curriculum" src = "https://user-images.githubusercontent.com/47843060/69028060-2c796b80-0a14-11ea-9c71-3cd8309b7712.JPG">
